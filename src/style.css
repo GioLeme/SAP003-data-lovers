@@ -1,6 +1,6 @@
 @font-face {
   font-family: pokemon;
-  src: url('/assets/Pokemon-Hollow.ttf');
+  src: url('./assets/Pokemon-Hollow.ttf');
 }
 
 ::-webkit-scrollbar {
@@ -82,7 +82,7 @@ p {
   width: 250px;
   height: 20px;
   border-radius: 10px;
-  background-image: url('/assets/search_icon.svg');
+  background-image: url('./assets/search_icon.svg');
   background-position: right 90% bottom 50%;
   background-repeat: no-repeat;
 }
